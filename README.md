@@ -89,6 +89,8 @@ See `infrastructure/` directory for AWS deployment configurations and `scripts/`
 - **Day 2**: Backend foundation
     - OAuth and Azure AD (Entra)
     - JWTs
+    - Healthcheck endpoints
+    - Proper standard error messages for malformed requests and more
 - **Day 3**: Angular foundation
     - SSO login/protect routes
     - Dash with device list
