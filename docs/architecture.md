@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Smart Home Energy Management Dashboard is designed as a pet project application which should have real-time capabilities and role-based access control.
+board is designed as a pet project application which should have real-time capabilities and role-based access control.
 
 ## High-Level Architecture
 

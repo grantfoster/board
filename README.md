@@ -1,4 +1,4 @@
-# Smart Home Energy Management Dashboard
+# board
 
 A pet project energy management system that monitors home energy consumption with role-based access control and real-time data.
 
@@ -45,7 +45,7 @@ smart-energy-dashboard/
 - **Real-time Energy Monitoring**: Live dashboard with current consumption
 - **Role-based Access**: Different views for homeowners, family members, and energy providers
 - **Historical Analytics**: Trend analysis and consumption patterns
-- **Smart Alerts**: Notifications for unusual energy usage
+- **Smart Alerts**: Notifications for unusual energy usage, based on arbitrary limits perhaps?
 - **Multi-tenant**: Support for multiple users (possibly multipe homes)
 
 ## 🛠️ Quick Start
