@@ -1,2 +1,8 @@
+# angular
 node_modules
 .angular
+
+# python
+env
+.venv
+__pycache__
